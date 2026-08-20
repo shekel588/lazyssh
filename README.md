@@ -8,6 +8,11 @@ Lazyssh is a terminal-based, interactive SSH manager inspired by tools like lazy
 <br/>
 With lazyssh, you can quickly navigate, connect, manage, and transfer files between your local machine and any server defined in your `~/.ssh/config`. No more remembering IP addresses or running long scp commands — just a clean, keyboard-driven UI.
 
+## Fork attribution
+
+This repository is a fork of [Adembc/lazyssh](https://github.com/Adembc/lazyssh).
+The original project and its authors remain credited; this fork adds LazyGit-like keyboard navigation, active-field highlighting, and a blinking block cursor.
+
 ---
 
 ## ✨ Features
